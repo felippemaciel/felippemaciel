@@ -1,0 +1,72 @@
+
+
+body{
+    background-color: #282828 !important;
+}
+
+.bg-dark{
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.bg-roxo{
+    background-color: #4A3185 !important;
+}
+
+.text-roxo{
+    color: #4A3185;
+}
+
+.btn-roxo{
+    background-color: #4A3185 !important;
+    color: #fff;
+}
+
+.btn-roxo:hover{
+    background-color: #2d1f4f !important;
+    color: rgb(179, 179, 179);
+}
+
+
+.bg-cinza{
+    background-color: #2a2a2a !important;
+    border-color: #2a2a2a !important;
+}
+
+.link-menu{
+    color: #4A3185 !important;
+    font-size: 13pt !important;
+    font-weight: 500;
+}
+.link-menu:hover{
+    color: #ece3ff !important;
+}
+
+.active{
+    color: #fff !important;
+    cursor:default !important;
+}
+
+.img-back{
+    margin-top: 76px;
+    height: 580px;
+    max-height: 540px;
+    min-height: 300px;
+    background:  linear-gradient(to bottom, rgba(0, 0, 0, 0.993), rgba(0, 0, 0, 0.519)), url('../img/img_code.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.img-back-02{
+    height: auto;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.835), rgba(0, 0, 0, 0.835)), url('../img/abstract-technology-background-free-video.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.p-sobre-mim{
+    font-size: 14pt !important;
+    text-align: justify;
+}
+
